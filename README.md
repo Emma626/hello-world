@@ -2,4 +2,4 @@
 my first repository
 
 Hello everyone!
-I like giraffe ,they look truly adorable!
+I like giraffes ,they look truly adorable!
